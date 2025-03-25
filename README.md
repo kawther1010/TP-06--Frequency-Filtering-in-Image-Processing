@@ -1,4 +1,4 @@
-# 📡 TP 06: Frequency Filtering in Image Processing  
+# 📡 TP 06: Frequency Filtering in Image Processing  BY Dr Guessoum
 
 ## 🎯 Objectives  
 1. Understand the **2D Fourier Transform** applied to images.  
